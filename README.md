@@ -1,4 +1,4 @@
-# openpilot_land_detect_method
+# openpilot_land_detect
 train a openpilot land detect model (supercombo)
 
 ![](https://github.com/qibin0506/openpilot_land_detect_method/blob/master/result.jpg)
